@@ -1,0 +1,96 @@
+*{
+  padding:0;
+  margin: 0;
+}
+header{
+  font-size:20px;
+  color: mediumblue;
+  font-style: oblique;
+  background-color: rgba(247, 95, 108, 0.205);
+  border: 2px solid maroon;
+  }
+.head{
+  padding: 20px;
+  background-color:bisque;
+  }
+.first img{
+  padding: 10px;
+  height: 120px;
+  border: 4px dotted maroon;
+  width: 120px;
+  float: left;
+  margin-left: auto;
+  margin-top:20px;
+  background-color: whitesmoke;
+
+}
+.sec img{
+  padding: 10px;
+  height: 120px;
+  width: 120px;
+  border: 4px dotted maroon;
+  float: left;
+  margin-left: auto;
+  margin-top:20px;
+   background-color: whitesmoke;
+
+  
+}
+.third img{
+  padding: 10px;
+  height: 120px;
+  width: 120px;
+  border: 4px dotted maroon;
+  float: left;
+  margin-left: auto;
+  margin-top:20px;
+  background-color: whitesmoke;
+  }
+
+p,h2{
+  margin-left: 200px;
+  margin-top: 20px;
+}
+.button{
+  border:none;
+  color: whitesmoke;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  background-color: maroon;
+  margin-left: 900px;
+  }
+  .button:hover{
+    background-color: rgba(122, 177, 20, 0.884);
+  }
+
+  .last{
+    margin-left: 150px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+
+  }
+  .images{
+    margin-right: 0px;
+    float: left;
+    margin-left: auto;
+    margin-bottom: 0px;
+    }
+
+    h3{
+      background-color: mediumpurple;
+      color: cornsilk;
+      font: outline;
+      font-style: unset;
+      border: 4px outset maroon;
+      
+    }
+
+    footer{
+      padding: 5px;
+      padding-top: 0px;
+      background-color: lawngreen;
+      color: brown;
+}
